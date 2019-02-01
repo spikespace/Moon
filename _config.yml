@@ -4,7 +4,7 @@ bio:                '在人之间.'
 description:        "Spike's Blog."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/cowboy-hat.png'
+logo:               'assets/img/wanted.png'
 background:         'assets/img/intro.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             zh_CN
